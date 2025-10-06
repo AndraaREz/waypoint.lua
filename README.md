@@ -1,1 +1,1 @@
-# waypoint.lua
+# robloxwaypoint
